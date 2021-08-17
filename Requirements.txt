@@ -1,0 +1,3 @@
+-->A Saw, Fan and oil pump all go ON when a start button is pressed.
+-->If the saw has operated less than 20s, the oil pump should go off when the saw is turned off and the fan is to run for an additional 5s after the shutdown of the saw.
+-->If the saw has operated for more than 20s, the fan should remain on until reset by a separate fan reset button and the oil pump should remain on for an additional 10 s after the saw is turned off.
